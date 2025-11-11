@@ -6,10 +6,10 @@ UltraISO is a premium software utility that allows users to create, edit, conver
 
 
 ### I-----------------------------I
-### I UltraISO Premium id         I
+### I UltraISO Premium id --------I
 ### I====================         I
-### I Name: UltraISO              I
-### I Key: 8608-5A70-EB23-152C    I
+### I Name: UltraISO -------------I
+### I Key: 8608-5A70-EB23-152C ---I
 ### I-----------------------------I
 
 
